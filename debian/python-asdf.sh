@@ -16,6 +16,7 @@ add_required_debian_packages() {
 
 install_python_latest() {
   asdf install python latest
+  asdf global python latest
 }
 
 add_python_plugin
