@@ -25,6 +25,7 @@ add_software() {
   sudo apt install -y dmenu
   sudo apt install -y lxappearance
   sudo apt install -y rofi
+  sudo apt install -y thunar
   # sudo apt install -y picom # picom is pretty old, install from source
   # Install nm-applet
   sudo apt install -y network-manager-gnome
